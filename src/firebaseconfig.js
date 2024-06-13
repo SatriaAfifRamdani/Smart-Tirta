@@ -87,5 +87,3 @@ const fetchDataAndSort = async () => {
 };
 
 fetchDataAndSort(); // Call the function to fetch and sort data
-
-//
